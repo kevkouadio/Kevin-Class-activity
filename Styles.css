@@ -1,0 +1,33 @@
+.box {
+    background-color: lightgrey;
+    width: 1150px;
+    border: none;
+    margin: 30px;
+    
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.header {
+    background-color: black;
+}
+
+.name {
+    margin: 25px;
+}
+
+img {
+    margin: 25px;
+    
+}
+table {
+    text-align: left;
+    border-collapse: collapse;
+    padding: 0px;
+}
+
+
+
